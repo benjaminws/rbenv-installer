@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# Update sources:
+sudo yum update
+
+# Install development tools:
+sudo yum groupinstall -y "Development Tools"
+
+# Extras
+sudo yum install zlib zlib-devel readline readline-devel openssl openssl-devel
