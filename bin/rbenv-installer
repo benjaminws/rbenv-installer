@@ -27,7 +27,7 @@ PLUGINS=(
   "sstephenson:rbenv-vars"
   "sstephenson:ruby-build"
   "fesplugas:rbenv-installer"
-  "bsmith:rbenv-init-project"
+  "benjaminws:rbenv-init-project"
   "jamis:rbenv-gemset"
 )
 
